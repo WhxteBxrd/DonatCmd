@@ -1,0 +1,7 @@
+C:\Users\bird_\Documents\C#\DonatCMD\obj\Debug\DonatCMD.csprojAssemblyReference.cache
+C:\Users\bird_\Documents\C#\DonatCMD\obj\Debug\DonatCMD.csproj.CoreCompileInputs.cache
+C:\Users\bird_\Documents\C#\DonatCMD\bin\Debug\DonatCMD.exe.config
+C:\Users\bird_\Documents\C#\DonatCMD\bin\Debug\DonatCMD.exe
+C:\Users\bird_\Documents\C#\DonatCMD\bin\Debug\DonatCMD.pdb
+C:\Users\bird_\Documents\C#\DonatCMD\obj\Debug\DonatCMD.exe
+C:\Users\bird_\Documents\C#\DonatCMD\obj\Debug\DonatCMD.pdb

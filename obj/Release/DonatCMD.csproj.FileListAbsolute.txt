@@ -1,0 +1,14 @@
+C:\Users\bird_\Documents\C#\DonatCMD\bin\Release\DonatCMD.exe.config
+C:\Users\bird_\Documents\C#\DonatCMD\bin\Release\DonatCMD.exe
+C:\Users\bird_\Documents\C#\DonatCMD\bin\Release\DonatCMD.pdb
+C:\Users\bird_\Documents\C#\DonatCMD\obj\Release\DonatCMD.csprojAssemblyReference.cache
+C:\Users\bird_\Documents\C#\DonatCMD\obj\Release\DonatCMD.csproj.CoreCompileInputs.cache
+C:\Users\bird_\Documents\C#\DonatCMD\obj\Release\DonatCMD.exe
+C:\Users\bird_\Documents\C#\DonatCMD\obj\Release\DonatCMD.pdb
+D:\Source Code\C#\exemple\Basic Project\DonatCMD\bin\Release\DonatCMD.exe.config
+D:\Source Code\C#\exemple\Basic Project\DonatCMD\bin\Release\DonatCMD.exe
+D:\Source Code\C#\exemple\Basic Project\DonatCMD\bin\Release\DonatCMD.pdb
+D:\Source Code\C#\exemple\Basic Project\DonatCMD\obj\Release\DonatCMD.csproj.AssemblyReference.cache
+D:\Source Code\C#\exemple\Basic Project\DonatCMD\obj\Release\DonatCMD.csproj.CoreCompileInputs.cache
+D:\Source Code\C#\exemple\Basic Project\DonatCMD\obj\Release\DonatCMD.exe
+D:\Source Code\C#\exemple\Basic Project\DonatCMD\obj\Release\DonatCMD.pdb
